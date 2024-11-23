@@ -47,7 +47,7 @@ class HomeDrawer extends StatelessWidget {
                   icon: Icons.settings,
                   text: StringsManager.settings,
                   onClicked: onDrawerItemClicked,
-                  item: MenuItem.settingsgit add
+                  item: MenuItem.settings
                 ),
               ],
             ),
