@@ -12,4 +12,7 @@ class ColorsManager{
   static const Color blue = Color(0xFF418FA0);
   static const Color yellow = Color(0xFFF2D352);
   static const Color red = Color(0xFFEA3D3D);
+  static const Color gray = Color(0xFF79828B);
+  static const Color darkGray2 = Color(0xFF42505C);
+
 }
